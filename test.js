@@ -529,3 +529,4 @@ async function seq() {
 }
 
 seq();
+//await promise callback
